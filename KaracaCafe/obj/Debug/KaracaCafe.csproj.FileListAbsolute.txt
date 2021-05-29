@@ -1,0 +1,32 @@
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\bin\x86\Debug\KaracaCafe.exe.config
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\bin\x86\Debug\KaracaCafe.exe
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\bin\x86\Debug\KaracaCafe.pdb
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.Form2Anaekran.resources
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.Form3Masa.resources
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.Form4SİPARİŞ.resources
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.Properties.Resources.resources
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.csproj.GenerateResource.Cache
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.exe
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.pdb
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.csprojResolveAssemblyReference.cache
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\bin\x86\Debug\Database1.mdb
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\bin\x86\Debug\Anamenü.mdb
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.FormGiris.resources
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.Mutfak.resources
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.SİPARİSÖDEME.resources
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.Form7.resources
+C:\Users\DAMLA REİS\Documents\Visual Studio 2013\Projects\KaracaCafe\KaracaCafe\obj\x86\Debug\KaracaCafe.Form8kasa.resources
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\bin\Debug\KaracaCafe.exe.config
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.exe
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.pdb
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.csprojResolveAssemblyReference.cache
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.FormGiris.resources
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.Form2Anaekran.resources
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.Form3Masa.resources
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.Form4SİPARİŞ.resources
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.Mutfak.resources
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.SİPARİSÖDEME.resources
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.Form7.resources
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.Form8kasa.resources
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.Properties.Resources.resources
+C:\Users\DAMLA-REİS\Desktop\KARACA CAFE\14545061_Yunus_Karaca\14545061_Yunus_Karaca\Proje Kodları\KaracaCafe\obj\Debug\KaracaCafe.csproj.GenerateResource.Cache
